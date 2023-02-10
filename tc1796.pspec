@@ -2341,7 +2341,7 @@
     <symbol name="CBS_JDP_ID"        address="0xF0000408" entry="false"/>
 	<symbol name="CBS_COMDATA"       address="0xF0000468" entry="false"/>
 	<symbol name="CBS_IOSR"          address="0xF000046C" entry="false"/>
-	<symbol name="CBS_MCDBBS"        address="0x0xF0000470" entry="false"/>
+	<symbol name="CBS_MCDBBS"        address="0xF0000470" entry="false"/>
 	<symbol name="CBS_MCDSSG"        address="0xF0000474" entry="false"/>
 	<symbol name="CBS_OEC"           address="0xF0000478" entry="false"/>
 	<symbol name="CBS_OCNTRL"        address="0xF000047C" entry="false"/>
